@@ -1,0 +1,26 @@
+h1 {
+
+    color:white;
+    background-color: black ;
+    font-family:monospace;
+
+}
+
+span {
+
+    color: aqua;
+}
+
+.project {
+
+    color: white;
+    text-align: center;
+    background-color: rebeccapurple;
+}
+
+h3 {
+
+text-align: right;
+text-decoration: underline;
+background-color: lightblue;
+}
