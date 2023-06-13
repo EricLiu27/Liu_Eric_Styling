@@ -16,11 +16,14 @@ span {
     color: white;
     text-align: center;
     background-color: rebeccapurple;
-}
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 
+}
 h3 {
 
 text-align: right;
 text-decoration: underline;
 background-color: lightblue;
+font-family: 'Courier New', Courier, monospace
 }
